@@ -3,7 +3,8 @@
 <h1 align="center"> Hii👋,I'm Pujan Sarkar</h1>
 <h3 align="center"> I am cyberscurity enthusiastic , CTF player🚩 and a web developer. </h3>
 # 💫 About Me:
- <br>🚩 I’m currently Playing - CTFs<br>🌱 I’m currently learning - Linux Development & Penetration Testing<br>🧑‍💻I'm Creating - Web projects<br>💬 Ask me about - CTFs & Linux
+ <br>🚩 I’m currently Playing - CTFs<br>🌱 I’m currently learning - Linux Development & Penetration Testing<br>🧑‍💻I'm Creating - Web projects and cyber related projects
+ <br>💬 Ask me about - CTFs & Linux
 
 
 ## 🌐 Socials:
