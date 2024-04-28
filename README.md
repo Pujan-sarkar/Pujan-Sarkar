@@ -1,4 +1,4 @@
-<img src = "background1.gif" height ="450"  width ="1200">
+<img src = "background1.gif" height ="400"  width ="1050">
 <h1 align="center"> Hii👋,I'm Pujan Sarkar</h1>
 <h3 align="center"> I am cyberscurity enthusiastic , CTF player🚩 and a web developer. </h3>
 # 💫 About Me:
